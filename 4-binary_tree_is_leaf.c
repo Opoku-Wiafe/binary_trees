@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * binary_tree_is_leaf -
+ * binary_tree_is_leaf - func that checks if a node is a leaf
  * @node: pointer to the node to check
  * Return: 1 if node is leaf or 0 otherwise
  */

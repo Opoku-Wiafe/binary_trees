@@ -32,7 +32,7 @@ int binary_tree_balance(const binary_tree_t *tree)
 {
 	size_t right_node = 0, left_node = 0;
 
-	if (tree = NULL)
+	if (tree == NULL)
 		return (0);
 
 	if (tree->right)
